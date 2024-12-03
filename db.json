@@ -16,7 +16,7 @@
         "Date_de_proch_sess": "20 decembre 2025",
         "Attribué par": "Microsoft",
         "details": "La certification Microsoft Certified: Azure Administrator Associate est destinée à ceux qui gèrent les services cloud de Microsoft Azure. Elle couvre la gestion des abonnements et des ressources Azure, le stockage, la gestion des identités, la configuration des réseaux virtuels, la gestion des machines virtuelles et des ressources Azure. Les administrateurs Azure jouent un rôle crucial dans la gestion des services cloud et des applications sur la plateforme Azure.",
-        "postaire": "..\assets\ressources projet vue\ressources projet vue\certification\certif1.png"
+        "postaire": "../assets/ressources projet vue/ressources projet vue/certification/certif1.png"
       },
       {
         "id": 2,
@@ -25,7 +25,7 @@
         "Date_de_proch_sess": "15 mars 2025",
         "Attribué par": "Microsoft",
         "details": " La certification Microsoft Certified: Azure Solutions Architect Expert est pour les professionnels qui conçoivent des solutions cloud sur Microsoft Azure. Ce rôle implique la création d'architectures complexes qui répondent aux besoins d'une entreprise en matière de cloud, de sécurité, de gestion et de mise en réseau. Cette certification valide les compétences des architectes Azure dans la conception et la gestion de solutions cloud.",
-        "postaire": "..\assets\ressources projet vue\ressources projet vue\certification\certif3.png"
+        "postaire": "../assets/ressources projet vue/ressources projet vue/certification/certif3.png"
       },
       {
         "id": 3,
@@ -34,7 +34,7 @@
         "Date_de_proch_sess": "19 mai 2025",
         "Attribué par": "Microsoft",
         "details": "La certification Microsoft Certified: Azure Developer Associate s'adresse aux développeurs qui créent des applications et des services sur la plateforme Azure. Les sujets abordés incluent les services cloud Azure, les API, la gestion des bases de données, l'intégration de systèmes et l'optimisation des applications cloud. Cette certification est utile pour ceux qui travaillent sur des applications cloud évolutives, sécurisées et performantes.",
-        "postaire": "..\assets\ressources projet vue\ressources projet vue\certification\certif4.png"
+        "postaire": "../assets/ressources projet vue/ressources projet vue/certification/certif4.png"
       },
       {
         "id": 4,
@@ -43,7 +43,7 @@
         "Date_de_proch_sess": "2 octobre 2025",
         "Attribué par": "Google Cloud",
         "details": "Cette certification Google Cloud Cybersecurity Professional est destinée aux professionnels de la cybersécurité qui gèrent et sécurisent les infrastructures cloud sur la plateforme Google Cloud. Les sujets incluent la sécurité des réseaux, le cryptage des données, la gestion des identités et des accès, ainsi que la protection contre les menaces et les attaques. Cette certification met l'accent sur la mise en œuvre de stratégies de sécurité robustes pour les services cloud.",
-        "postaire": "..\assets\ressources projet vue\ressources projet vue\certification\certifg3.png"
+        "postaire": "../assets/ressources projet vue/ressources projet vue/certification/certifg3.png"
       },
       {
         "id": 5,
@@ -52,7 +52,7 @@
         "Date_de_proch_sess": "17 avril 2025",
         "Attribué par": "Google Cloud",
         "details": "La certification Google Cloud Professional Cloud Security Engineer est destinée aux ingénieurs en sécurité qui conçoivent et gèrent la sécurité des solutions dans Google Cloud. Les compétences couvertes incluent la protection des données, la gestion des identités et des accès, la sécurité des applications et la gestion des menaces. Cette certification est idéale pour ceux qui souhaitent se spécialiser dans la gestion de la sécurité dans les environnements cloud.",
-        "postaire": "..\assets\ressources projet vue\ressources projet vue\certification\certifg4.png"
+        "postaire": "../assets/ressources projet vue/ressources projet vue/certification/certifg4.png"
       }
 
     ],
