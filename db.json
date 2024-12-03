@@ -95,7 +95,7 @@
           },
           {
             "id": 4,
-            "nompart": "Massachusetts Institute of Technology (MIT)",
+            "nompart": "MIT",
             "siege": "Cambridge, Massachusetts, États-Unis",
             "date_fondation": "1861",
             "fondateur": "William Barton Rogers",
@@ -104,7 +104,7 @@
           },
            {
             "id": 5,
-            "nompart":"University of Melbourne (Melbourne University)",
+            "nompart":"Melbourne University",
             "siege": "Melbourne, Australie",
             "date_fondation": "1853",
             "fondateur": "Législature du Victoria (le gouvernement de l'État)",
