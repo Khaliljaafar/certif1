@@ -5,7 +5,7 @@
         "nomcertif": "CCNA 2 (Cisco Certified Network Associate 2)",
         "domaine": "Réseaux et infrastructure",
         "Date_de_proch_sess": "24 mars 2025",
-        "Attribué par": "Cisco Systems",
+        "Attribue_par": "Cisco Systems",
         "details": "CCNA 2 fait partie du programme de certification Cisco CCNA. Cette certification est un approfondissement des connaissances et compétences de base en réseaux et protocoles, en particulier pour les administrateurs réseaux. Elle couvre des sujets tels que le routage et la commutation, les VLAN, la gestion des adresses IP, et la configuration des périphériques réseau. Les certifications CCNA sont particulièrement recherchées pour ceux qui travaillent dans l'administration des réseaux d'entreprises",
         "postaire": "https://image.noelshack.com/fichiers/2024/49/2/1733189162-ccna2.jpg"
       },
@@ -14,7 +14,7 @@
         "nomcertif": "Microsoft Azure Administrator",
         "domaine": "Cloud computing, Administration des systèmes",
         "Date_de_proch_sess": "20 decembre 2025",
-        "Attribué par": "Microsoft",
+        "Attribue_par": "Microsoft",
         "details": "La certification Microsoft Certified: Azure Administrator Associate est destinée à ceux qui gèrent les services cloud de Microsoft Azure. Elle couvre la gestion des abonnements et des ressources Azure, le stockage, la gestion des identités, la configuration des réseaux virtuels, la gestion des machines virtuelles et des ressources Azure. Les administrateurs Azure jouent un rôle crucial dans la gestion des services cloud et des applications sur la plateforme Azure.",
         "postaire": "https://infosyte.com/wp-content/uploads/2020/11/Microsoft-Azure-Administrator.jpg"
       },
@@ -23,7 +23,7 @@
         "nomcertif": "Microsoft Azure Solutions Architect",
         "domaine": "Cloud computing, Conception de solutions",
         "Date_de_proch_sess": "15 mars 2025",
-        "Attribué par": "Microsoft",
+        "Attribue_par": "Microsoft",
         "details": " La certification Microsoft Certified: Azure Solutions Architect Expert est pour les professionnels qui conçoivent des solutions cloud sur Microsoft Azure. Ce rôle implique la création d'architectures complexes qui répondent aux besoins d'une entreprise en matière de cloud, de sécurité, de gestion et de mise en réseau. Cette certification valide les compétences des architectes Azure dans la conception et la gestion de solutions cloud.",
         "postaire": "https://image.noelshack.com/fichiers/2024/49/2/1733189313-certif3.png"
       },
@@ -32,7 +32,7 @@
         "nomcertif": "Microsoft Azure Developer",
         "domaine": "Développement cloud, Développement de logiciels",
         "Date_de_proch_sess": "19 mai 2025",
-        "Attribué par": "Microsoft",
+        "Attribue_par": "Microsoft",
         "details": "La certification Microsoft Certified: Azure Developer Associate s'adresse aux développeurs qui créent des applications et des services sur la plateforme Azure. Les sujets abordés incluent les services cloud Azure, les API, la gestion des bases de données, l'intégration de systèmes et l'optimisation des applications cloud. Cette certification est utile pour ceux qui travaillent sur des applications cloud évolutives, sécurisées et performantes.",
         "postaire": "https://image.noelshack.com/fichiers/2024/49/2/1733189339-certif4.png"
       },
@@ -41,7 +41,7 @@
         "nomcertif": "Google Cloud Cybersecurity Professional",
         "domaine": "Sécurité informatique, Cloud computing",
         "Date_de_proch_sess": "2 octobre 2025",
-        "Attribué par": "Google Cloud",
+        "Attribue_par": "Google Cloud",
         "details": "Cette certification Google Cloud Cybersecurity Professional est destinée aux professionnels de la cybersécurité qui gèrent et sécurisent les infrastructures cloud sur la plateforme Google Cloud. Les sujets incluent la sécurité des réseaux, le cryptage des données, la gestion des identités et des accès, ainsi que la protection contre les menaces et les attaques. Cette certification met l'accent sur la mise en œuvre de stratégies de sécurité robustes pour les services cloud.",
         "postaire": "https://image.noelshack.com/fichiers/2024/49/2/1733189375-certig3.png"
       },
@@ -50,7 +50,7 @@
         "nomcertif": "Google Cloud Security Engineer",
         "domaine": "Sécurité informatique, Cloud computing",
         "Date_de_proch_sess": "17 avril 2025",
-        "Attribué par": "Google Cloud",
+        "Attribue_par": "Google Cloud",
         "details": "La certification Google Cloud Professional Cloud Security Engineer est destinée aux ingénieurs en sécurité qui conçoivent et gèrent la sécurité des solutions dans Google Cloud. Les compétences couvertes incluent la protection des données, la gestion des identités et des accès, la sécurité des applications et la gestion des menaces. Cette certification est idéale pour ceux qui souhaitent se spécialiser dans la gestion de la sécurité dans les environnements cloud.",
         "postaire": "https://image.noelshack.com/fichiers/2024/49/2/1733189375-certig3.png"
       }
