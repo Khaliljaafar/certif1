@@ -64,7 +64,7 @@
             "date_fondation": "1984",
             "fondateur": "Leonard Bosack, Sandy Lerner",
             "information": " Cisco Systems est une entreprise américaine spécialisée dans les équipements de réseaux et les technologies de communication, notamment dans les domaines des routeurs, des switches et des logiciels associés. Cisco est un acteur majeur dans le domaine des infrastructures de réseau mondial.",
-            "logo": "@/assets/ressources projet vue/ressources projet vue/nos partenaires/cisco.webp"
+            "logo": "https://image.noelshack.com/fichiers/2024/49/2/1733191249-cisco.png"
           },
           {
             "id": 1,
@@ -73,7 +73,7 @@
             "date_fondation": "4 avril 1975",
             "fondateur": "Bill Gates, Paul Allen",
             "information": "Microsoft est l'une des plus grandes entreprises de technologie au monde, connue principalement pour son système d'exploitation Windows et sa suite bureautique Microsoft Office. Elle est également impliquée dans le cloud computing, l'intelligence artificielle et d'autres domaines technologiques.",
-            "logo": "@/assets/ressources projet vue/ressources projet vue/nos partenaires/microsoft.jfif"
+            "logo": "https://image.noelshack.com/fichiers/2024/49/2/1733190960-microsoft.jpeg"
           },
           {
             "id": 2,
@@ -82,7 +82,7 @@
             "date_fondation": "4 septembre 1998",
             "fondateur": "Larry Page, Sergey Brin",
             "information": "Google est principalement connu pour son moteur de recherche, mais il est également impliqué dans une large gamme de produits et services, dont Android, YouTube, Google Cloud et bien plus encore. En 2015, Google est devenu une filiale de la société mère Alphabet Inc.",
-            "logo": "@/assets/ressources projet vue/ressources projet vue/nos partenaires/google.webp"
+            "logo": "https://image.noelshack.com/fichiers/2024/49/2/1733191206-googleplex-hq-cropped.jpg"
           },
           {
             "id": 3,
@@ -91,7 +91,7 @@
             "date_fondation": "1636",
             "fondateur": "John Harvard",
             "information": "Harvard est l'une des plus anciennes et des plus prestigieuses universités au monde. Elle offre une large gamme de programmes académiques dans presque tous les domaines de la connaissance.",
-            "logo": "@/assets/ressources projet vue/ressources projet vue/nos partenaires/Harvard2.jpg"
+            "logo": "https://image.noelshack.com/fichiers/2024/49/2/1733190913-harvard2.jpg"
           },
           {
             "id": 4,
@@ -100,7 +100,7 @@
             "date_fondation": "1861",
             "fondateur": "William Barton Rogers",
             "information": "Le MIT est une université de renommée mondiale, particulièrement connue pour ses programmes dans les domaines de l'ingénierie, des sciences et de la technologie. Il est l'un des leaders mondiaux en matière de recherche et d'innovation.",
-            "logo": "@/assets/ressources projet vue/ressources projet vue/nos partenaires/MIT university.avif"
+            "logo": "https://image.noelshack.com/fichiers/2024/49/2/1733191028-mit.jpg"
           },
            {
             "id": 5,
@@ -109,7 +109,7 @@
             "date_fondation": "1853",
             "fondateur": "Législature du Victoria (le gouvernement de l'État)",
             "information":"L'Université de Melbourne est l'une des principales universités australiennes, avec des programmes académiques de haut niveau et une forte réputation dans la recherche et l'enseignement. Elle est l'une des plus anciennes et prestigieuses universités d'Australie.",
-            "logo": "@/assets/ressources projet vue/ressources projet vue/nos partenaires/Mrlborne.jpg"
+            "logo": "https://image.noelshack.com/fichiers/2024/49/2/1733191068-mrlborne.jpg"
           }
     ]
   }
